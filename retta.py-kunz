@@ -1,0 +1,49 @@
+class retta:
+    def _init_(self, a, b, c, x):
+        self.__a = a
+        self.__b = b
+        self.__c = c
+        self.__x = x
+        self.__punti = []
+
+        
+    def getA(self):
+        return self.__a
+
+    def getB(self):
+        return self.__b
+    
+    def getC(self):
+        return self.__c
+
+    def eqImplicita(self):
+        if self.__b==0:
+            return f"{self._a}x+{self._c}=0"
+        elif self.__c==0:
+            return f"{self._a}x+{self._b}y=0"
+        elif self.__a==0:
+            return f"{self._b}y+{self._c}=0"
+
+    def eqEsplicita(self):
+        if self.__b==0:
+            return f"Equazione impossibile!"
+        elif self.__c==0:
+            return f"y={-self._a}x/{self._b}"
+        elif self.__a==0:
+            return f"y={-self._c}/{self._b}"
+        else:
+            return f"y={-self._a/self.b}x+{-self.c/self._b}"
+        
+    def trovaY(self):
+        y = int(((self_.a*self.x)+ self.c)/ self._b)
+        return f"y={y}"
+
+    def punti(self, N, M):
+        self.__N = N
+        self.__M= M
+
+        for self._N in range(self._M):
+            tupla = (x, (-self._a * x) / self.b + (-self.c / self._b))
+            x = x+1
+            self.__punti.append(tupla)
+            return f"Coordinate: {self.__punti}"
