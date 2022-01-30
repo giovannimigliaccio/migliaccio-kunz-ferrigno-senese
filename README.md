@@ -1,1 +1,0 @@
-# migliaccio-kunz-ferrigno-senese
