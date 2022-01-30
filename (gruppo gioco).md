@@ -5,8 +5,11 @@ Il nostro gruppo per la realizzazione di questo progetto è formato da Migliacci
 Ruoli:
 
 Migliaccio: Gestione della grafica e del diagramma di flusso
+
 Ferrigno: Gestione e realizzazione del software e del diagramma di flusso
+
 Kunz: Gestione del file readme
+
 Senese: 
 
 come si svolge il gioco:
