@@ -1,4 +1,4 @@
-#Gruppo gioco
+*Gruppo gioco
 
 Il nostro gruppo per la realizzazione di questo progetto è formato da Migliaccio, Ferrigno, Kunz, Senese.
  
