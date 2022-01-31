@@ -10,7 +10,7 @@ Ferrigno: Gestione e realizzazione del software e del diagramma di flusso
 
 Kunz: Gestione del file readme
 
-Senese: 
+Senese: aiuto nel file readme e conclusione del file 
 
 come si svolge il gioco:
 
