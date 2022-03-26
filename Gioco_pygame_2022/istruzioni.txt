@@ -1,0 +1,10 @@
+Salve queste sono le istruzioni di "gioco_pygame_22"
+ 
+
+Per giocarci basta poco serve solo:
+
+1.Aprire tutti i file ("main","livelli","charattere" e infine "Poligono")
+# Non è mportante in che ordine si aprono
+2.eseguire con il debug ed il gioco è fatto
+
+Buon divertimento ;)
