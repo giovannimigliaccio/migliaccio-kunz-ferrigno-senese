@@ -1,7 +1,7 @@
 from charattere import Maiali
 from Poligono import Poligono
 
-# Creazione classe "Levelli" in manier molto generale
+# Creazione classe "Levelli" in maniera molto generale
 class Levelli():
     def __init__(self, maiali, colonne, travi, spazio):
         self.maiali = maiali
