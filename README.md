@@ -13,7 +13,7 @@
 - **Senese**: File readme ed estetica
 
 ## Organizzazione del gruppo
-Ci siamo incontrati su meet e abbiamo discusso su come si  sarebbe svolto il gioco. Successivamente ci siamo divisi i compiti da fare e periodicamente abbiamo rivisto i risultati insieme, confrontandoci e cercando di migliorare il prodotto ottenuto.
+Dopo esserci organizati  su meet  abbiamo discusso su come si  sarebbe svolto il gioco. Successivamente ci siamo divisi i compiti da fare e periodicamente abbiamo rivisto i risultati insieme, confrontandoci e cercando di migliorare il prodotto ottenuto.
 ***
 
 # Descrizione del gioco
