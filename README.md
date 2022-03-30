@@ -1,4 +1,4 @@
-# Gruppo M-K-F-S
+# Gruppo M-F-S-K
 
 *Il nostro gruppo per la realizzazione di questo progetto è formato da Migliaccio, Ferrigno, Kunz e Senese.*
 
