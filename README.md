@@ -20,5 +20,6 @@ Nel gioco sono state integrate delle coniche tramite un file che presenta delle 
 Le coniche utilizzate nel gioco sono la retta e la parabola.
 - la retta è stata utilizzata per più elementi, come il suolo oppure le costruzioni.
 - la parabola è stata utilizzata per creare la traiettoria della fionda.
+![diagramma di flusso finale](https://user-images.githubusercontent.com/75009236/161050654-6211e7cd-a649-4c56-aecb-64feb7dddf26.jpeg)
 
 
