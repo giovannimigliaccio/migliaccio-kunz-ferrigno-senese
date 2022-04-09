@@ -13,7 +13,7 @@ from levelli import Levelli
 pygame.init()
 schermo = pygame.display.set_mode((1200, 650))
 sprite = pygame.image.load(
-    "../resources/images/palla.jpg").convert_alpha()
+    "../resources/images/palla.jfif").convert_alpha()
 sfondo2 = pygame.image.load(
     "../resources/images/background1.jpg").convert_alpha()
 arma = pygame.image.load(
